@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 fdsafsdfsadfas fdsfsf qwert
+=======
+fdsfsf qwert
+new text
+>>>>>>> newbranch
 
-add another line
